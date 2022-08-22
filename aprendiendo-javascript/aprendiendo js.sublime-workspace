@@ -1,0 +1,957 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"setColor"
+			],
+			[
+				"s",
+				"sudadera_nike"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ca",
+				"cabiarColor"
+			],
+			[
+				"num",
+				"numero1"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"le",
+				"lenguajes"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"re",
+				"rel"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"ab",
+				"about"
+			],
+			[
+				"a",
+				"about"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"form",
+				"form_name"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"t",
+				"theme"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"po",
+				"post"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"dr",
+				"droppable"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"m",
+				"mouseup"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"f",
+				"Focus"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"g",
+				"green"
+			],
+			[
+				"profes",
+				"profesor"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"div",
+				"divsRojos"
+			],
+			[
+				"cont",
+				"contenidoEnTexto"
+			],
+			[
+				"fr",
+				"frm"
+			],
+			[
+				"prom",
+				"promocion"
+			],
+			[
+				"des",
+				"descripción"
+			],
+			[
+				"for",
+				"formu"
+			],
+			[
+				"promoci",
+				"promocion"
+			],
+			[
+				"promo",
+				"promoción"
+			],
+			[
+				"from",
+				"from"
+			],
+			[
+				"texto",
+				"texto1"
+			],
+			[
+				"suma",
+				"sumaPorDos"
+			],
+			[
+				"sum",
+				"sumar"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"proco",
+				"Promoción"
+			],
+			[
+				"de",
+				"descripcion"
+			],
+			[
+				"frut",
+				"fruta1"
+			],
+			[
+				"Fruta",
+				"fruta1"
+			],
+			[
+				"nume",
+				"numero1"
+			],
+			[
+				"nu",
+				"numero2"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"numer",
+				"numero2"
+			],
+			[
+				"numero",
+				"numero1"
+			],
+			[
+				"resu",
+				"resultadoCMD"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"mi",
+				"mi_resultado"
+			],
+			[
+				"Y",
+				"years"
+			],
+			[
+				"oper",
+				"operacion"
+			],
+			[
+				"pais",
+				"pais_y_contienete"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"do",
+				"double\tborder-style"
+			],
+			[
+				"border-bo",
+				"border-bottom-style\tproperty"
+			],
+			[
+				"border-ri",
+				"border-right-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "poo-y-typescript/index.html",
+			"settings":
+			{
+				"buffer_size": 332,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "poo-y-typescript/js/01-clase-json.js",
+			"settings":
+			{
+				"buffer_size": 259,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "poo-y-typescript/js/02-hola-mundo.ts",
+			"settings":
+			{
+				"buffer_size": 77,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "poo-y-typescript/js/03-tipos-de-datos.ts",
+			"settings":
+			{
+				"buffer_size": 745,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "poo-y-typescript/js/04-funciones.ts",
+			"settings":
+			{
+				"buffer_size": 111,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "poo-y-typescript/js/camiseta.ts",
+			"settings":
+			{
+				"buffer_size": 1812,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "poo-y-typescript/js/main.ts",
+			"settings":
+			{
+				"buffer_size": 139,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/MasterJavaScript/aprendiendo javascript"
+	],
+	"file_history":
+	[
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/proyecto-js/css/styles.css",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/proyecto-js/js/main.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/proyecto-js/contact.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/proyecto-js/reloj.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/proyecto-js/about.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/proyecto-js/index.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/proyecto-js/css/blue.css",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/proyecto-js/css/red.css",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/proyecto-js/css/green.css",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo-jquery/js/06-interface.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo-jquery/interface.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo-jquery/ajax.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo-jquery/js/05-ajax.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo-jquery/js/04-efectos.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo-jquery/efectos.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo-jquery/textos.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo-jquery/js/03-textos.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo-jquery/js/02-eventos.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo-jquery/eventos.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo-jquery/index.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo-jquery/js/01-selectores.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/36-fetch.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/37-try-catch.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/datos-externos.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/formulario.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/31-timers.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/32-ejercicio-dom.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/34-localstorage.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/pagina.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/35-ejercicio-localstorage.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/index.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/30-eventos.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/29-bom.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/28-dom.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/27-ejercicio-arrays.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/26-arrays-multi.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/25-arrays.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/20-parametros2.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/21-funciones-anonimas.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/03-let-y-var.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/06-condicionales.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/22-ambito.js",
+		"/C/Users/None/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/23-funciones-texto.js",
+		"/C/Users/None/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/05-tipos-de-datos.js",
+		"/C/Users/Normal User/Desktop/prueba.html",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/JS/Avanzado/EJERCICIOSJAVASCRIPT2/carrusel.html",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/JS/Avanzado/EJERCICIOSJAVASCRIPT2/ca.html",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/JS/Avanzado/EJERCICIOSJAVASCRIPT2/html6.html",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/19-funciones.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/05-tipos-de-datos.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/18-ejercicio8.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/17-ejercicio7.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/16-ejercicio6.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/15-ejercicio5.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/14-ejercicio4.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/13-ejercicio3.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/12-ejercicio2.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/11-ejercicio1.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/10-ventanas.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/09-while.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/08-bucle-for.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/07-switch.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/04-constantes.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/js/02-variables.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/hola-mundo/hola-mundo.js",
+		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/aprendiendo js.sublime-project",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/CSS/Parte 3/index.css",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/CSS/Parte 3/index.html",
+		"/C/Users/None/Desktop/comprobar_numero.py",
+		"/C/Users/None/Desktop/edad.py",
+		"/C/Users/None/Desktop/suma.py",
+		"/C/Users/None/Desktop/hola.py",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/CSS/Ejercicios CSS/1-Ejercicios CSS/3/img_div1.png",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/CSS/Ejercicios CSS/1-Ejercicios CSS/3/img_div2.png",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/CSS/Ejercicios CSS/1-Ejercicios CSS/3/index.css",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/CSS/Ejercicios CSS/1-Ejercicios CSS/3/index.html",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/CSS/Ejercicios CSS/1-Ejercicios CSS/2/index.css",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/CSS/Ejercicios CSS/1-Ejercicios CSS/2/index.html",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/CSS/Ejercicios CSS/1-Ejercicios CSS/1/vector_elec.jpg",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/CSS/Ejercicios CSS/1-Ejercicios CSS/1/index.css",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/CSS/Ejercicios CSS/1-Ejercicios CSS/1/index.html",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Hardware/vector_el.jpg",
+		"/C/Users/Normal User/SynologyDrive/ASIR/Marcas/CSS/1Ejercicios CSS/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"fetch",
+			"peliculas",
+			"getElementByName"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "poo-y-typescript/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "poo-y-typescript/js/01-clase-json.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "poo-y-typescript/js/02-hola-mundo.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "poo-y-typescript/js/03-tipos-de-datos.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "poo-y-typescript/js/04-funciones.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "poo-y-typescript/js/camiseta.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1613,
+								1613
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "poo-y-typescript/js/main.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aprendiendo js.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\None\\Desktop\\edad.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
