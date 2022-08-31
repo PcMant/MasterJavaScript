@@ -4,16 +4,44 @@
 		"selected_items":
 		[
 			[
+				"lis",
+				"listado"
+			],
+			[
+				"set",
+				"setNombre"
+			],
+			[
+				"get",
+				"getAllData"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"ge",
+				"getVelocidad"
+			],
+			[
+				"coche",
+				"coche_tres"
+			],
+			[
+				"co",
+				"coche"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
 				"se",
 				"setColor"
 			],
 			[
 				"s",
 				"sudadera_nike"
-			],
-			[
-				"co",
-				"color"
 			],
 			[
 				"ca",
@@ -82,10 +110,6 @@
 			[
 				"a",
 				"about"
-			],
-			[
-				"get",
-				"getItem"
 			],
 			[
 				"form",
@@ -192,10 +216,6 @@
 				"style\tTag"
 			],
 			[
-				"h",
-				"href"
-			],
-			[
 				"bord",
 				"border\tproperty"
 			],
@@ -292,10 +312,6 @@
 				"value"
 			],
 			[
-				"ge",
-				"getElementById"
-			],
-			[
 				"proco",
 				"Promoción"
 			],
@@ -314,10 +330,6 @@
 			[
 				"nume",
 				"numero1"
-			],
-			[
-				"nu",
-				"numero2"
 			],
 			[
 				"fun",
@@ -408,64 +420,37 @@
 	"buffers":
 	[
 		{
-			"file": "poo-y-typescript/index.html",
+			"file": "curso-typescript/index.html",
 			"settings":
 			{
-				"buffer_size": 332,
+				"buffer_size": 555,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "poo-y-typescript/js/01-clase-json.js",
+			"file": "curso-typescript/prueba.ts",
 			"settings":
 			{
-				"buffer_size": 259,
+				"buffer_size": 0,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "poo-y-typescript/js/02-hola-mundo.ts",
+			"file": "curso-typescript/coche.ts",
 			"settings":
 			{
-				"buffer_size": 77,
+				"buffer_size": 1845,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "poo-y-typescript/js/03-tipos-de-datos.ts",
+			"file": "curso-typescript/programa.ts",
 			"settings":
 			{
-				"buffer_size": 745,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "poo-y-typescript/js/04-funciones.ts",
-			"settings":
-			{
-				"buffer_size": 111,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "poo-y-typescript/js/camiseta.ts",
-			"settings":
-			{
-				"buffer_size": 1812,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "poo-y-typescript/js/main.ts",
-			"settings":
-			{
-				"buffer_size": 139,
+				"buffer_size": 3390,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -536,10 +521,19 @@
 	"expanded_folders":
 	[
 		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript",
-		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/aprendiendo-angular"
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/aprendiendo-angular",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/curso-typescript"
 	],
 	"file_history":
 	[
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/index.html",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/js/01-clase-json.js",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/js/02-hola-mundo.ts",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/js/03-tipos-de-datos.ts",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/js/04-funciones.ts",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/js/camiseta.ts",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/curso-typescript/index.html",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/js/main.ts",
 		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/aprendiendo-angular/README.md",
 		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/proyecto-js/css/styles.css",
 		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/proyecto-js/js/main.js",
@@ -627,7 +621,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -641,6 +635,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Programa",
 			";\n",
 			"fetch",
 			"peliculas",
@@ -662,24 +657,24 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "poo-y-typescript/index.html",
+					"file": "curso-typescript/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 332,
+						"buffer_size": 555,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								224,
-								224
+								158,
+								158
 							]
 						],
 						"settings":
@@ -695,25 +690,24 @@
 				},
 				{
 					"buffer": 1,
-					"file": "poo-y-typescript/js/01-clase-json.js",
+					"file": "curso-typescript/prueba.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 259,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								33,
-								33
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"open_with_edit": true,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -724,132 +718,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "poo-y-typescript/js/02-hola-mundo.ts",
+					"file": "curso-typescript/coche.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 77,
+						"buffer_size": 1845,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								77,
-								77
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "poo-y-typescript/js/03-tipos-de-datos.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 745,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								339,
-								339
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "poo-y-typescript/js/04-funciones.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 111,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								111,
-								111
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "poo-y-typescript/js/camiseta.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1812,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1613,
-								1613
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "poo-y-typescript/js/main.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 139,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2,
-								2
+								555,
+								555
 							]
 						],
 						"settings":
@@ -861,6 +742,34 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "curso-typescript/programa.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
