@@ -3,8 +3,11 @@
 /*se importa el modelo*/
 var Project = require('../models/project');
 
-/*libreria para ficheros - filesystem*/
+/*Módulo de NodeJS para ficheros - filesystem*/
 var fs = require('fs');
+
+/*Módulo de NodeJS, permite cargar rutas físicas de nuestro sistema de archivos*/
+var path = require('path')
 
 var controller = {
 
@@ -136,6 +139,21 @@ var controller = {
 				message: fileName
 			});
 		}
+	},
+
+	getImageFile: function(req, res){
+		var file = req.params.image;
+		var path_file = './uploads/'+file;
+
+		fs.exists(path_file, (exists) => {
+			if(exists){
+				res.sendFile(path.resolve(path_file));
+			}else{
+				return res.status(200).send({
+					message: 'No existe la imagen...'
+				})
+			}
+		});
 	}
 };
 

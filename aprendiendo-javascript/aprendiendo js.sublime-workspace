@@ -4,16 +4,76 @@
 		"selected_items":
 		[
 			[
+				"file",
+				"fileExt"
+			],
+			[
+				"proje",
+				"projectUpdated"
+			],
+			[
+				"findByIdAnd",
+				"findByIdAndUpdate"
+			],
+			[
+				"mul",
+				"multiparMiddleware"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"project",
+				"projectRemoved"
+			],
+			[
+				"pro",
+				"projectRemoved"
+			],
+			[
+				"proj",
+				"projectId"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"projec",
+				"projectUpdated"
+			],
+			[
+				"e",
+				"err"
+			],
+			[
+				"fi",
+				"findById"
+			],
+			[
+				"get",
+				"getProject"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"num",
+				"numero2"
+			],
+			[
 				"lis",
 				"listado"
 			],
 			[
 				"set",
 				"setNombre"
-			],
-			[
-				"get",
-				"getAllData"
 			],
 			[
 				"nu",
@@ -46,10 +106,6 @@
 			[
 				"ca",
 				"cabiarColor"
-			],
-			[
-				"num",
-				"numero1"
 			],
 			[
 				"l",
@@ -86,10 +142,6 @@
 			[
 				"fo",
 				"format"
-			],
-			[
-				"re",
-				"rel"
 			],
 			[
 				"margin",
@@ -232,16 +284,8 @@
 				"border\tproperty"
 			],
 			[
-				"f",
-				"Focus"
-			],
-			[
 				"in",
 				"input\tTag"
-			],
-			[
-				"par",
-				"parent"
 			],
 			[
 				"g",
@@ -348,10 +392,6 @@
 				"resultadoCMD"
 			],
 			[
-				"pro",
-				"prompt"
-			],
-			[
 				"pr",
 				"prompt"
 			],
@@ -420,37 +460,28 @@
 	"buffers":
 	[
 		{
-			"file": "curso-typescript/index.html",
+			"file": "backend/app.js",
 			"settings":
 			{
-				"buffer_size": 555,
+				"buffer_size": 927,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "curso-typescript/prueba.ts",
+			"file": "backend/controllers/project.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 3634,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "curso-typescript/coche.ts",
+			"file": "backend/routes/project.js",
 			"settings":
 			{
-				"buffer_size": 1845,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "curso-typescript/programa.ts",
-			"settings":
-			{
-				"buffer_size": 3390,
+				"buffer_size": 753,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -522,17 +553,26 @@
 	[
 		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript",
 		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/aprendiendo-angular",
-		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/curso-typescript"
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/backend",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/backend/models",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/backend/uploads"
 	],
 	"file_history":
 	[
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/backend/models/project.js",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/backend/index.js",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/backend/calculadora.js",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/backend/package.json",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/curso-typescript/programa.ts",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/curso-typescript/coche.ts",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/curso-typescript/prueba.ts",
+		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/curso-typescript/index.html",
 		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/index.html",
 		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/js/01-clase-json.js",
 		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/js/02-hola-mundo.ts",
 		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/js/03-tipos-de-datos.ts",
 		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/js/04-funciones.ts",
 		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/js/camiseta.ts",
-		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/curso-typescript/index.html",
 		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/poo-y-typescript/js/main.ts",
 		"/C/wamp64/www/MasterJavaScript/aprendiendo-javascript/aprendiendo-angular/README.md",
 		"/C/Users/Normal User/SynologyDrive/udemy/Master JavaScript/aprendiendo javascript/proyecto-js/css/styles.css",
@@ -621,7 +661,7 @@
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -657,60 +697,61 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "curso-typescript/index.html",
+					"file": "backend/app.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 555,
+						"buffer_size": 927,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								158,
-								158
+								849,
+								849
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "curso-typescript/prueba.ts",
+					"file": "backend/controllers/project.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 3634,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3501,
+								3501
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1620.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -718,58 +759,31 @@
 				},
 				{
 					"buffer": 2,
-					"file": "curso-typescript/coche.ts",
+					"file": "backend/routes/project.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1845,
+						"buffer_size": 753,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								555,
-								555
+								753,
+								753
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "curso-typescript/programa.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3390,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11,
-								11
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
